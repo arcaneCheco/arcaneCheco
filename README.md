@@ -15,7 +15,7 @@
 #### What I'm doing now :space_invader: 
 
 I'm passionate about 3D web design using threeJs and I'm currenlty getting my hands dirty with shaders using [OpenGL Shading Language](https://www.opengl.org/) to bring custom effects to my projects. <br><br>
-I'm also excited about decentralisation and blockchain technology and can't wait to dive deeper into [sol](https://github.com/ethereum/solidity). <br>
+I'm also excited about decentralisation and blockchain technology and can't wait to dive deeper into [solidity](https://github.com/ethereum/solidity). <br>
 
 #### Connect with me on [LinkedIn](https://www.linkedin.com/in/sergio-azizi/).
 
