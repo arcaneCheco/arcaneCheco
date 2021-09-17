@@ -17,7 +17,8 @@
 I'm passionate about 3D web design using threeJs and I'm currenlty getting my hands dirty with shaders using [OpenGL Shading Language](https://www.opengl.org/) to bring custom effects to my projects. <br><br>
 I'm also excited about decentralisation and blockchain technology and can't wait to dive deeper into [solidity](https://github.com/ethereum/solidity). <br>
 
-#### Connect with me on [LinkedIn](https://www.linkedin.com/in/sergio-azizi/).
+#### Social
+[twtter](https://twitter.com/checo272) | [LinkedIn](https://www.linkedin.com/in/sergio-azizi/).
 
 <!--
 **arcaneCheco/arcaneCheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
