@@ -18,7 +18,7 @@ I'm passionate about 3D web design using threeJs and I'm currenlty getting my ha
 I'm also excited about decentralisation and blockchain technology and can't wait to dive deeper into [solidity](https://github.com/ethereum/solidity). <br>
 
 #### Social
-[twtter](https://twitter.com/checo272) | [LinkedIn](https://www.linkedin.com/in/sergio-azizi/).
+[twitter](https://twitter.com/checo272) | [LinkedIn](https://www.linkedin.com/in/sergio-azizi/).
 
 <!--
 **arcaneCheco/arcaneCheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
