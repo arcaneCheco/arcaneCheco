@@ -12,10 +12,11 @@
 <code><img height="40" alt="WebGL" src="https://avatars.githubusercontent.com/u/20603608?s=280&v=4"></code>
 
 
+
+<!--
 #### Social
 [twitter](https://twitter.com/checo272) | [LinkedIn](https://www.linkedin.com/in/sergio-azizi/).
 
-<!--
 **arcaneCheco/arcaneCheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
